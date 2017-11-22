@@ -3,7 +3,7 @@
 Built for CSCE 3530
 
 
-## compilation
+## Compilation
 
 	javac UDPServer.java
 	javac UDPClient.java
@@ -11,7 +11,7 @@ Built for CSCE 3530
 Note: UDP Server gives two warnings. Ignore them, the program still works with them.
 	
 	
-## execute
+## Execution
 	
 	java UDPServer <port_number>
 	java UDPClient <port_number>
