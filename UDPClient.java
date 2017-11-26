@@ -1,6 +1,6 @@
 /* 
 Compilation: javac UDPClient.java
-Execution  : java Client <port_number> [eg. port_number = 5000, where port_number is the UDP server port number]
+Execution  : java Client <port_number>
 */
 
 import java.io.*;

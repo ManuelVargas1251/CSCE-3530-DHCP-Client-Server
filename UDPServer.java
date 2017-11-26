@@ -1,6 +1,6 @@
 /*
 Compilation: javac UDPServer.java
-Execution  : java UDPServer [5000+]
+Execution  : java UDPServer <port_number>
 */
 
 import java.io.*;
